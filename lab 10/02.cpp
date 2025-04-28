@@ -1,6 +1,6 @@
-#include <iostream>
-#include <fstream>
-#include <sstream>
+#include<iostream>
+#include<fstream>
+#include<sstream>
 using namespace std;
 
 const int MAX_EMPLOYEES = 100;
